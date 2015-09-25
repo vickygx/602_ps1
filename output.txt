@@ -1,0 +1,104 @@
+
+
+Running compress test with
+ 	filename=lzw_compress_tests/1.dat 
+	maxsize=65536
+Comparing output (lzw_compress_tests/1.dat.zl) with expected (lzw_tests/1.dat.zl)
+Diffs:
+Test results: success
+
+
+Running compress test with
+ 	filename=lzw_compress_tests/2.dat 
+	maxsize=65536
+Comparing output (lzw_compress_tests/2.dat.zl) with expected (lzw_tests/2.dat.zl)
+Diffs:
+Test results: success
+
+
+Running compress test with
+ 	filename=lzw_compress_tests/3.dat 
+	maxsize=65536
+Comparing output (lzw_compress_tests/3.dat.zl) with expected (lzw_tests/3.dat.zl)
+Diffs:
+Test results: success
+
+
+Running compress test with
+ 	filename=lzw_compress_tests/4.dat 
+	maxsize=65536
+Comparing output (lzw_compress_tests/4.dat.zl) with expected (lzw_tests/4.dat.zl)
+Diffs:
+Test results: success
+
+
+Running compress test with
+ 	filename=lzw_compress_tests/5.dat 
+	maxsize=65536
+Comparing output (lzw_compress_tests/5.dat.zl) with expected (lzw_tests/5.dat.zl)
+Diffs:
+Test results: success
+
+
+Running compress test with
+ 	filename=lzw_compress_tests/6.dat 
+	maxsize=65536
+Comparing output (lzw_compress_tests/6.dat.zl) with expected (lzw_tests/6.dat.zl)
+Diffs:
+Test results: success
+
+
+Running compress test with
+ 	filename=lzw_compress_tests/5.dat 
+	maxsize=512
+Comparing output (lzw_compress_tests/5.dat.zl) with expected (lzw_tests/5.dat.512.zl)
+Diffs:
+Test results: success
+
+
+Running compress test with
+ 	filename=lzw_compress_tests/6.dat 
+	maxsize=512
+Comparing output (lzw_compress_tests/6.dat.zl) with expected (lzw_tests/6.dat.512.zl)
+Diffs:
+Test results: success
+
+
+Running decompress test with
+ 	filename=lzw_decompress_tests/1.dat.zl 
+	maxsize=65536
+Comparing output (lzw_decompress_tests/1.dat.zl.u) with expected (lzw_tests/1.dat)
+Diffs:
+Test results: success
+
+
+Running decompress test with
+ 	filename=lzw_decompress_tests/2.dat.zl 
+	maxsize=65536
+Comparing output (lzw_decompress_tests/2.dat.zl.u) with expected (lzw_tests/2.dat)
+Diffs:
+Test results: success
+
+
+Running decompress test with
+ 	filename=lzw_decompress_tests/3.dat.zl 
+	maxsize=65536
+Comparing output (lzw_decompress_tests/3.dat.zl.u) with expected (lzw_tests/3.dat)
+Diffs:
+Test results: success
+
+
+Running decompress test with
+ 	filename=lzw_decompress_tests/4.dat.zl 
+	maxsize=65536
+Comparing output (lzw_decompress_tests/4.dat.zl.u) with expected (lzw_tests/4.dat)
+Diffs:
+Test results: success
+
+
+Running decompress test with
+ 	filename=lzw_decompress_tests/5.dat.zl 
+	maxsize=65536
+Comparing output (lzw_decompress_tests/5.dat.zl.u) with expected (lzw_tests/5.dat)
+Diffs:
+Test results: success
